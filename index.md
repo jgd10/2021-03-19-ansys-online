@@ -9,7 +9,7 @@ country: "uk"      # lowercase two-letter ISO country code such as "fr" (see htt
 language: "english"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the
 latitude: ""        # decimal latitude of workshop venue (use https://www.latlong.net/)
 longitude: ""       # decimal longitude of the workshop venue (use https://www.latlong.net)
-humandate: "1st March 2021"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humandate: "19th March 2021"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "9am - 5pm (GMT)"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2021-03-01      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2021-03-01        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
